@@ -9,7 +9,8 @@
   <!-- Bootstrap Icons -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
   <style>
-    body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; scroll-behavior: smooth; }
+    body { font-family: 'Segoe UI'
+ Tahoma, Geneva, Verdana, sans-serif; scroll-behavior: smooth; }
     .navbar-nav .nav-link { font-weight: 500; }
     
     /* Header */
